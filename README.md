@@ -21,3 +21,13 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+## Installations made
+
+```bash
+$ npm install class-validator class-transformer #Validators (decorators)
+$ npm install @nestjs/serve-static #Serving static content
+$ npm install @nestjs/mongoose mongoose #Mongoose
+$ npm install @nestjs/config
+$ npm install joi
+```
